@@ -120,7 +120,7 @@ export default defineConfig({
     ],
 
       editLink: {
-      pattern: "https://github.com/msrefs",
+      pattern: "https://github.com/Refac7",
       text: "向我们反馈问题",
     },
     search: {

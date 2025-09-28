@@ -39,7 +39,7 @@ const team = [
     bio: "UI/UX Designer",
     avatar: "/images/team/refs.jpg",
     links: {
-      GitHub: "https://github.com/msrefs",
+      GitHub: "https://github.com/Refac7",
     }
   },
   {
@@ -115,4 +115,4 @@ const team = [
 
 面对未知的挑战，要始终保持好奇心，不断进步，不忘初心。
 
-2024/08/09                                Written by msrefs
+2024/08/09                                Written by Refac7
