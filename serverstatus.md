@@ -2,7 +2,7 @@
 >感谢 https://mcsrvstat.us/ 提供的api支持
 
 <iframe 
-  src="https://minecraft-status-widget.neotec.uk/" 
+  src="https://minecraft-status-widget.neotec.refact.cc/" 
   width="100%" 
   style="border:none; max-width:400px; height:200px;"
 ></iframe>

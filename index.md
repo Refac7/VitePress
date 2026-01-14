@@ -15,7 +15,7 @@ hero:
       link: /about
     - theme: alt
       text: 博客/Blog
-      link: https://blog.neotec.uk/
+      link: https://blog.neotec.refact.cc
 
 features:
   - icon: 😃
